@@ -9,7 +9,7 @@ categories: ["shortcodes"]
 ---
 
 # Admonition
-
+<!-- 
 {{% admonition note "I'm title!" false %}}
 biu biu biu.
 
@@ -88,7 +88,7 @@ biu biu biu.
 
 {{% admonition quote "quote" %}}
 biu biu biu.
-{{% /admonition %}}
+{{% /admonition %}} -->
 
 # center, right, left
 
